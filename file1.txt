@@ -1,3 +1,2 @@
 This is file1. File1 has been updated.
 We also added a new line to file1.
-War B now has a new file1 text.
